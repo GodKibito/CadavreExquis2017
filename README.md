@@ -8,3 +8,6 @@ Principe du jeu à décrire ici
 
 ### Participants
 Tous les menbres de la formation
+
+### Vente à distance
+Règles de modifications de fichier à distance.
